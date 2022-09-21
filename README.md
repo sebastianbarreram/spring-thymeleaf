@@ -1,2 +1,2 @@
 # sprinboot-project
-App Spring del curso Universidad Spring - Spring Framework y Spring Boot! Udemy
+App Spring Thymeleaf del curso Universidad Spring - Spring Framework y Spring Boot! Udemy
